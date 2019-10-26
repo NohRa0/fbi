@@ -3,7 +3,7 @@
 import json , sys , hashlib , os , time , marshal, getpass
 ###################################################################
 '''
-     Facebook Information 
+     Fb Info
 '''
 ###################################################################
 #                             COLOR
@@ -66,11 +66,11 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Hak9
-    Name       Facebook Information
+    Hello      World
+    Name       Fb Info
     Version    Full Version
     Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+    create      NohRa
 
 * if you find any errors or problems , please contact
   author
